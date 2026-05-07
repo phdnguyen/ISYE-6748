@@ -45,3 +45,10 @@ conda activate data_6748
 ## Data
 
 Raw data files are excluded from version control via `.gitignore`. Do not commit any files under `data/raw/` or `data/interim/`.
+
+| File | Source |
+|------|--------|
+| `ehn_gt_inpatient_20251223000.csv` | Sponsor-provided |
+| `ehn_gt_outpatient_20251223000.csv` | Sponsor-provided |
+| `2024 Totals and Risk.csv` | Sponsor-provided |
+| `DXCCSR_v2026-1.csv` | [HCUP CCSR — AHRQ](https://hcup-us.ahrq.gov/toolssoftware/ccsr/prccsr.jsp) |
